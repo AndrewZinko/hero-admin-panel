@@ -1,1 +1,1 @@
-This is test project with hero admin panel!
+This is small project with hero admin panel using React and Redux.
