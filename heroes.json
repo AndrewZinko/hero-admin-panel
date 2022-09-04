@@ -1,0 +1,35 @@
+{
+  "heroes": [
+    {
+      "id": "053aa249-9e04-4326-9c55-6eee230b9cc9",
+      "name": "Fire Hero",
+      "description": "Everything related to fire",
+      "element": "fire"
+    },
+    {
+      "id": "e574edcf-156f-464d-8553-e8d5ef914652",
+      "name": "Aqua Hero",
+      "description": "Lots of things, using water",
+      "element": "water"
+    },
+    {
+      "id": "3f03f0ef-8308-4583-85e1-5e04df82e7b7",
+      "name": "Wind Hero",
+      "description": "Hurricanes and loads of stuff",
+      "element": "wind"
+    },
+    {
+      "id": "69711ace-4dc6-4ecd-a812-2f86048ff5f2",
+      "name": "Ground Hero",
+      "description": "He`s like The Rock, but with superpower.",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
